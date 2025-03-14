@@ -11,3 +11,8 @@ _If applied, this commit will [your subject line here]_
 7. Use the body to explain what and why vs. how
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/#seven-rules)
+
+This is the change I made to the codebase
+_Add missing link and alt text to the company's logo_
+Describe the problem your commit solves and how.
+_Screen readers won't read the images to users with disabilities without this information_
